@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageButton btnComp1, btnComp2, btnComp3;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
